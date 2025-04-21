@@ -1,1 +1,3 @@
 # Internship_tasks
+
+In this task, I worked on cleaning and preprocessing a raw customer dataset using Python and Pandas. The process involved identifying and handling missing values, removing duplicate records, and standardizing inconsistent data such as gender and country names. I also converted various date formats into a uniform datetime format and ensured all column names were clean and consistent by renaming them to lowercase with underscores. Additionally, I corrected data types where necessary, such as converting age to integer and dates to datetime. After completing these steps, I saved the cleaned dataset for further analysis.
